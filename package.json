@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "hide-terminal-cursor": "^0.0.1",
+    "node-pty": "^0.10.1",
+    "show-terminal-cursor": "^0.0.2",
+    "systeminformation": "^5.17.12"
+  }
+}
